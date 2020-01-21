@@ -7,3 +7,5 @@ Four strategies were implemented:
 - **Part 2**: dynamical state feedback control
 - **Part 3**: sliding mode control
 - **Part 4**: adaptive sliding mode control
+
+Feedback, bug reports, and comments are not only welcome, but strongly encouraged.
