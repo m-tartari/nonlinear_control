@@ -1,5 +1,5 @@
 # Control of a Nonlinear System
-The aim of this project was to implement a control law for a nonlinear system (based on the model of a PVTOL aircraft), using the proper approach depending on the range of settings given in the four subsequent tasks. This shows the various theories and which is to be preferred over to the others, according to the situation to deal with.
+The aim of this project was to implement of control laws for a nonlinear system (based on the model of a PVTOL aircraft), using the proper approach depending on the range of settings given in the four subsequent tasks. This shows the various theories and which is to be preferred over to the others, according to the situation to deal with.
 
 Four strategies were implemented:
 
